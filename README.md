@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JL</h1>
-<h3 align="center">QA Automation Engineer | SDET-Oriented | CI/CD & AI-Assisted Testing | Certified ISTQB CTFL from Colombia</h3>
+<h3 align="center">QA Automation Engineer | SDET-Oriented | Full Stack Development Enthusiast | CI/CD & AI-Assisted Testing | Certified ISTQB CTFL from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cavem3n&label=Profile%20views&color=0e75b6&style=flat" alt="cavem3n" /> </p>
 
